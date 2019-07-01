@@ -1,1 +1,2 @@
 # ML-QSTP-19
+I tried to debug, but still (for optional exercise) the value of theta from gradient descent and normal equation came out to be different. As for late submission, I did not have my phone for a month. I recently got a new phone and wasn't aware of the deadlines until a few days ago since you did not post any deadline on slack. Please consider this submission. I'll soon submit assignment 2 as well.
