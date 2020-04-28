@@ -1,1 +1,1 @@
-# Machine Learning - Quark Summer Time Projects (2019)
+# Machine Learning - Quark Summer Technical Projects (2019)
